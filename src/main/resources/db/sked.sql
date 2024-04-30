@@ -1,4 +1,4 @@
-USE DATABASE sked
+USE sked
 INSERT INTO establishments(name, sector, opening_hour, closing_hour, version) VALUES
     ('CodeForAll', 'Technology', '08:00:00', '22:00:00', 0),
     ('Amelia', 'Restaurant', '10:00:00', '22:00:00', 0);
